@@ -98,6 +98,6 @@ Java Development Kit (JDK): Version 17 or higher recommended.
 Build Tool: Maven (as indicated by pom.xml).
 API Key: A valid Google Gemini API Key.
 ## Installation & Setup
-#Clone the Repository:
+#Clone the Repository:  https://github.com/100noor/SmartAI.git
 
 
